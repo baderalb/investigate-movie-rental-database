@@ -1,2 +1,2 @@
-n this project, investigated a relational database - SAKILA DVD rental database, while working with PostgreSQL. Completed the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer the questions, and finishing by sharing the findings. Sakila dvd database
+in this project, investigated a relational database - SAKILA DVD rental database, while working with PostgreSQL. Completed the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer the questions, and finishing by sharing the findings. Sakila dvd database
 download from here :https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
